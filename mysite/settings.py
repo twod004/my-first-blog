@@ -25,7 +25,7 @@ SECRET_KEY = '#$08iag(r-7gvwm240-5bu+eqp%$&8!-v)o9wz%z-x!p2gku6u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [twod004.pythonanywhere.com]
 
 
 # Application definition
